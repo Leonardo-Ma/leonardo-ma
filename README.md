@@ -136,11 +136,6 @@
                     src="https://custom-icon-badges.demolab.com/badge/Learning Jira Software-0A66C2?logo=linkedin-white&logoColor=fff"
                     alt="LinkedIn Learning Certificate">
             </a>
-            <a href="https://www.hackerrank.com/certificates/0275845ac052" target="_blank">
-                <img style="height: 28px;"
-                    src="https://custom-icon-badges.demolab.com/badge/SQL (Basic) Certificate-121013?logo=hackerrank&logoColor=01ec64"
-                    alt="Hackerrank SQL Certificate">
-            </a>
         </td>
     </tr>
     <!-- Python & Power Apps -->
@@ -210,34 +205,6 @@
     </tr>
 </table>
 <br>
-<!-- Utilized tools -->
-<div align="center">
-    <strong>Utilized Tools</strong><br>
-    <img valign="middle" style="height: 28px;"
-        src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"
-        alt="VS Code">
-    <img valign="middle" style="height: 28px;"
-        src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-    <a href="https://www.hackerrank.com/profile/filho_magalhaes" target="_blank">
-        <img valign="middle" style="height: 28px;"
-            src="https://custom-icon-badges.demolab.com/badge/Hackerrank-121013?logo=hackerrank&logoColor=01ec64"
-            alt="Hackerrank">
-    </a>
-</div>
-<br>
-<!-- Learning -->
-<div align="center">
-    <strong>Currently Learning</strong><br>
-    <img valign="middle" style="height: 28px;"
-        src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
-    <img valign="middle" style="height: 28px;"
-        src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff" alt="Databricks">
-    <img valign="middle" style="height: 28px;" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine"
-        alt="Godot Engine">
-    <img valign="middle" style="height: 28px;"
-        src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-</div>
-
 <!-- Github stats -->
 <div>
     <br><br>
