@@ -1,10 +1,10 @@
 <table
     style="border: 2px solid #121013; width: 100%; border-collapse: collapse; background: #181818; color: #fff; font-family: 'Segoe UI', Arial, sans-serif;">
     <tr>
-        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;">💻 <b>Technology</b></th>
-        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;">⭐ <b>Proficiency</b></th>
-        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;">🚀 <b>Projects</b></th>
-        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;">📜 <b>Certificates</b></th>
+        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;"> <b>Technology</b></th>
+        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;"> <b>Proficiency</b></th>
+        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;"> <b>Projects</b></th>
+        <th style="border: 1px solid #121013; background: #23272f; font-size: 1.1em;"> <b>Certificates & Experience</b></th>
     </tr>
     <!-- Power Bi & ETL -->
     <tr>
@@ -15,22 +15,52 @@
             <img style="height: 28px;"
                 src="https://custom-icon-badges.demolab.com/badge/ETL-121013?logo=etl&logoColor=9370DB" alt="ETL badge">
         </td>
+        <!-- Proficiency -->
         <td style="border: 1px solid #121013;">
             <span>&#11088;&#11088;&#11088;★★</span><br>
             <span style="color: #bbb;">Intermediate</span>
         </td>
+        <!-- Projects -->
         <td style="border: 1px solid #121013;">
+            <!-- Project Placeholder -->
             <!-- <a href="" target="_blank">
                 <img style="height: 28px;" src="" alt="" >
             </a> -->
         </td>
+        <!-- Certificate & Experience -->
         <td style="border: 1px solid #121013;">
+            <img style="height: 28px;"
+                src="https://img.shields.io/badge/2%20years-Intership-0A66C2"
+                alt=" 2 Years Intership">
             <a href="https://www.linkedin.com/learning/certificates/7442496011dc7d2be7a1b2dbcec2c7d60c04db660350787ad4f01d6dea7d2a1c"
                 target="_blank">
-                <img style="height: 28px;"
-                    src="https://custom-icon-badges.demolab.com/badge/Power BI for Data Analysts-0A66C2?logo=linkedin-white&logoColor=fff"
-                    alt="LinkedIn Learning Certificate">
+            <img style="height: 28px;"
+                src="https://custom-icon-badges.demolab.com/badge/Power BI for Data Analysts-0A66C2?logo=linkedin-white&logoColor=fff"
+                alt="LinkedIn Learning Certificate">
             </a>
+        </td>
+    </tr>
+    <!-- Godot -->
+    <tr>
+        <td style="border: 1px solid #121013;">
+            <a href="https://godotengine.org">
+            <img style="height: 28px;" src="https://img.shields.io/badge/Godot-121013.svg?logo=godot-engine"
+                alt="Godot badge">
+            </a>
+        </td>        
+        <!-- Proficiency -->
+        <td style="border: 1px solid #121013;">
+            <span>&#11088;&#11088;★★★</span><br>
+            <span style="color: #bbb;">Intermediate</span>
+        </td>
+        <!-- Projects -->
+        <td style="border: 1px solid #121013;">
+            <a href="https://github.com/Leonardo-Ma/Untitled-Platformer" target="_blank">
+                <img style="height: 28px;" src="https://img.shields.io/badge/Untitled%20Platformer-121013?logo=github&logoColor=white" alt="Untitled Platformer">
+            </a>
+        </td>
+        <td style="border: 1px solid #121013;">
+            <!-- Certificate placeholder -->
         </td>
     </tr>
     <!-- Html CSS Javascript -->
@@ -44,16 +74,19 @@
                 src="https://img.shields.io/badge/-JavaScript-121013?style=flat&logo=javascript&logoColor=F7DF1E"
                 alt="javascript badge">
         </td>
+        <!-- Proficiency -->
         <td style="border: 1px solid #121013;">
             <span>&#11088;&#11088;★★★</span><br>
             <span style="color: #bbb;">Intermediate</span>
         </td>
+        <!-- Projects -->
         <td style="border: 1px solid #121013;">
             <!-- Project Placeholder -->
             <!-- <a href="" target="_blank">
                 <img style="height: 28px;" src="" alt="Placeholder Project">
             </a> -->
         </td>
+        <!-- Certificate & Experience -->
         <td style="border: 1px solid #121013;">
             <a href="https://www.freecodecamp.org/certification/Leo-m/responsive-web-design" target="_blank">
                 <img style="height: 28px;"
@@ -72,7 +105,8 @@
         <td style="border: 1px solid #121013;">
             <img style="height: 28px;" src="https://img.shields.io/badge/C-121013?logo=c&logoColor=00599C"
                 alt="C badge">
-        </td>
+        </td>        
+        <!-- Proficiency -->
         <td style="border: 1px solid #121013;">
             <span>&#11088;&#11088;★★★</span><br>
             <span style="color: #bbb;">Intermediate</span>
@@ -101,6 +135,7 @@
                 src="https://custom-icon-badges.demolab.com/badge/SQL-121013?logo=sql-blue&logoColor=336791"
                 alt="SQL badge">
         </td>
+        <!-- Proficiency -->
         <td style="border: 1px solid #121013;">
             <span>&#11088;&#11088;★★★</span><br>
             <span style="color: #bbb;">Intermediate</span>
@@ -111,6 +146,7 @@
                 <img style="height: 28px;" src="" alt="Placeholder Project">
             </a> -->
         </td>
+        <!-- Certificate & Experience -->
         <td style="border: 1px solid #121013;">
             <a href="https://www.linkedin.com/learning/certificates/0b43bf683b2fd52eb5d5c22be643b825c9253d01f181f5a9c439a27ee26e58fa"
                 target="_blank">
@@ -147,6 +183,7 @@
                 src="https://custom-icon-badges.demolab.com/badge/Power%20Apps-121013?logo=power-apps&logoColor=fff"
                 alt="Power Apps badge">
         </td>
+        <!-- Proficiency -->
         <td style="border: 1px solid #121013;">
             <span>&#11088;★★★★</span><br>
             <span style="color: #bbb;">Learning</span>
@@ -168,13 +205,15 @@
             <span>&#11088;★★★★</span><br>
             <span style="color: #bbb;">Learning</span>
         </td>
+        <!-- Projects -->
         <td style="border: 1px solid #121013;">
             <a href="https://github.com/Leonardo-Ma/Loja-Violao" target="_blank">
-                <img style="width: 400px; height: 28px;"
-                    src="https://img.shields.io/badge/Loja Violão-121013?logo=github&logoColor=white"
-                    alt="Botão loja violão">
+            <img style="width: 400px; height: 28px;"
+                src="https://img.shields.io/badge/Loja Violão-121013?logo=github&logoColor=white"
+                alt="Botão loja violão">
             </a>
         </td>
+        <!-- Certificate & Experience -->
         <td style="border: 1px solid #121013;">
             <!-- Certificate placeholder -->
         </td>
