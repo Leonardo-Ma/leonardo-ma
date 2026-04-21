@@ -88,7 +88,7 @@
         </td>
         <!-- Certificate & Experience -->
         <td style="border: 1px solid #121013;">
-            <a href="https://www.freecodecamp.org/certification/Leo-m/responsive-web-design" target="_blank">
+            <a href="https://www.freecodecamp.org/certification/leo-m/responsive-web-design" target="_blank">
                 <img style="height: 28px;"
                     src="https://img.shields.io/badge/Responsive Web Design-0A0A23?logo=freecodecamp&logoColor=fff"
                     alt="freeCodeCamp Certificate">
